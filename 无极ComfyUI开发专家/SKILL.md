@@ -1,7 +1,7 @@
 ---
 name: "☯️无极ComfyUI开发专家"
 description: "专业的ComfyUI插件开发、搜索、分析、对比、融合专家。在Trae平台完美运行。"
-triggers: [ComfyUI开发, ComfyUI搜索, 插件融合, 插件分析]
+triggers: [无极开发]
 ---
 
 # ☯️ 无极ComfyUI开发专家
@@ -166,10 +166,7 @@ MyPlugin/
 
 ## 🎯 触发词
 
-- `ComfyUI开发` - 开发新功能
-- `ComfyUI搜索` - 搜索插件
-- `插件融合` - 融合多个插件
-- `插件分析` - 分析对比插件
+- `无极开发` - 激活无极ComfyUI开发专家，所有功能自动运行
 
 ---
 
