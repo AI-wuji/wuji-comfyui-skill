@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v3.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Trae-brightgreen?style=for-the-badge" alt="Trae">
   <img src="https://img.shields.io/badge/ComfyUI-Expert-gold?style=for-the-badge" alt="ComfyUI">
 </p>
 
 <h1 align="center">
-  无极ComfyUI开发专家
+  无极ComfyUI开发专家3.0
 </h1>
 
 <h2 align="center">
-  Wuji ComfyUI Developer Skill
+  Wuji ComfyUI Developer Skill v3.0
 </h2>
 
 <p align="center">
@@ -21,6 +21,16 @@
 ## 🎯 目标
 
 让ComfyUI插件开发更简单！
+
+---
+
+## 📋 版本更新
+
+| 版本 | 更新内容 | 时间 |
+|------|----------|------|
+| **v3.0** | 修复融合节点模板逻辑错误；添加"无极开发3"触发词；完善6阶段工作流指引 | 2026-04 |
+| v2.0 | 初始版本，基于无极ComfyUI开发专家重构 | - |
+| v1.0 | 初始版本 | - |
 
 ---
 
@@ -86,7 +96,13 @@ model, clip = lora_loader.load_lora(...)
 
 ## 🎮 触发词
 
-- `无极开发` - 激活无极ComfyUI开发专家，所有功能自动运行
+- **`无极开发3`** - 激活无极ComfyUI开发专家3.0，所有功能自动运行
+- `无极开发` - 兼容旧版本触发词
+- `开发一个ComfyUI插件`
+- `做一个ComfyUI节点`
+- `融合这几个ComfyUI插件`
+- `帮我实现xxx ComfyUI功能`
+- `创建一个ComfyUI custom node`
 
 ---
 
@@ -109,13 +125,17 @@ model, clip = lora_loader.load_lora(...)
 
 <div align="center">
 
-📦 **v1.0 正式版**
+📦 **v3.0 最新版**
 
 <br>
 
-<a href="https://github.com/AI-wuji/wuji-comfyui-skill/releases/download/v1.0/wuji-comfyui-skill-v1.0.zip">
-📥 下载 v1.0
+<a href="https://github.com/AI-wuji/wuji-comfyui-skill/releases/download/v3.0/wuji-comfyui-skill-v3.0.zip">
+📥 下载 v3.0
 </a>
+
+<br><br>
+
+📦 [历史版本](https://github.com/AI-wuji/wuji-comfyui-skill/releases)
 
 </div>
 
@@ -139,7 +159,7 @@ model, clip = lora_loader.load_lora(...)
 
 <div align="center">
 
-<b>🌟 无极ComfyUI开发专家 v1.0 🌟</b><br>
-<b>Trae平台最佳搭档</b>
+<b>🌟 无极ComfyUI开发专家 v3.0 🌟</b><br>
+<b>Trae平台最佳搭档 - 让ComfyUI开发更简单</b>
 
 </div>
